@@ -1,6 +1,7 @@
 [user]
-	name = misund
-	email = thomas@hemmeligadresse.com
+	name = amersharif
+	email = mr.amersharif@gmail.com
+	signingkey = E144519D
 [push]
 	default = simple
 
@@ -85,3 +86,5 @@
 	insteadOf = "a:"
 [commit]
 	gpgsign = true
+[gpg]
+	program = gpg2
